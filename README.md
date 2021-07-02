@@ -4,4 +4,4 @@
 
 **COURSE:** Programming (PROG)
 
-**CONTENT:** Exercise solutions and projects
+**CONTENT:** Projects
