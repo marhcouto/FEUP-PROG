@@ -1,4 +1,4 @@
-# FEUP-PROG-2019/2020
+# FEUP-PROG-19/20
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
